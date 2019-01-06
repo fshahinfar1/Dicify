@@ -5,10 +5,12 @@ this code first quantize the image to square blocks (tiles) and calculates avera
 ## Examples
 - Input image    
 <img src='docs/linux.png' />    
+
 - Result image with 3350 dices    
-<img src='docs/3350_dice.jpg />    
+<img src='docs/3350_dice.jpg' />    
+          
 - Result image with 120 dice    
-<img src='docs/120_dice.jpg />    
+<img src='docs/120_dice.jpg' />    
 
 ## Dependency
 - python 3
